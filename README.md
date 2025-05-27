@@ -1,4 +1,4 @@
-###Vision-Based Robotic Assembly System
+### Vision-Based Robotic Assembly System
 
 Developed a Python-based autonomous robotic assembly pipeline guided by computer vision.
 Key Features:
